@@ -197,7 +197,7 @@ function PrimarySearchAppBar() {
             component="div"
             sx={{ display: { xs: "none", sm: "block" } }}
           >
-            MUI
+            DEMO
           </Typography>
           <Search>
             <SearchIconWrapper>
